@@ -1,0 +1,27 @@
+ <!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>Albipz Cybersec</title>
+</head>
+	
+	<style>
+		body   {background-color:#39311D;}
+		
+		h1 	   {color:#C4B6B6; 
+				text-align:center; 
+				font-size:300%;}
+		
+		p  	   {color:#7E7474; 
+				text-align:justify;
+				font-size:125%;
+				padding:30px}
+	</style>
+	
+<body>
+
+	<h1> Here some cybersec stuff</h1>
+	<p>Let's try to do something fun</p>
+		
+	
+</body>
+</html>
